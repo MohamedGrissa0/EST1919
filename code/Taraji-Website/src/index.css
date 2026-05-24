@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root
+{
+    background:#fff;
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+  font-family: "Josefin Sans", sans-serif;
+
+}
+.font{
+    font-family: "Darumadrop One", sans-serif;
+
+}
+.font1{
+
+  font-family: "Savate", sans-serif;
+
+}
